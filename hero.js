@@ -39,6 +39,16 @@
 
 */
 
+function isSafe(gameData, helpers) {
+
+// check north
+// check south
+// check west
+// Check East
+if ()
+}
+
+
 // Strategy definitions
 var moves = {
   // Aggressor
